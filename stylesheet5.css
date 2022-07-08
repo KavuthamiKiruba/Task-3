@@ -1,0 +1,32 @@
+.image1 {
+    background-color: saddlebrown;
+    border: dotted;
+    display: flex;
+    margin-right: 10px;
+    padding: 5px;
+    border-color: lightsalmon;
+}
+
+.image2 {
+    background-color: darkcyan;
+    border: solid;
+    display: flex;
+    padding: 5px;
+    margin-right: 10px;
+}
+body{
+    background-color: gray;
+}
+li{
+    
+    text-align: right;
+    padding:16px;
+    display:block;
+    float: right;
+    font-family: cursive;
+    font-size: xx-large;
+}
+li a:hover {
+    background-color:red;
+  }  
+  
